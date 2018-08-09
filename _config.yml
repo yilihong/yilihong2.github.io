@@ -3,8 +3,8 @@ title: Kevin Yili Hong
 email: hong@asu.edu
 description: > # this means to ignore newlines until "baseurl:"
   I'm a professor in the W. P. Carey School of Business. This website includes information about my research, teaching, and my collections of mechnical keyboards.
-baseurl: "/newwebsite/" # the subpath of your site, e.g. /blog/
-url: "https://yilihong.github.io"  # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://yilihong.github.io/newwebsite"  # the base hostname & protocol for your site
 # twitter_username: stevenvmiller
 github_username:  yilihong
 orcid_id: 0000-0003-4072-6263
