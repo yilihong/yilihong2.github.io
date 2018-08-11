@@ -7,25 +7,22 @@
 - title: "CV"
   href: "/cv/"
 
-- title: "For Students"
-  href: "/for-students/"
-  subcategories:
-    - subtitle: "Letters of Recommendation"
-      subhref: "/for-students/letters-of-recommendation/"
-    - subtitle: "Pi Sigma Alpha"
-      subhref: "/for-students/pi-sigma-alpha/"
-
 - title: "Research"
   href: "/research/"
 
 - title: "Teaching"
   href: "/teaching/"
   subcategories:
-    - subtitle: "POSC 1020 – Introduction to International Relations"
-      subhref: "http://posc1020.svmiller.com"
-    - subtitle: "POSC 3410 – Quantitative Methods in Political Science"
-      subhref: "/teaching/posc-3410-quantitative-methods-in-political-science/"
-    - subtitle: "POSC 3610 – International Conflict"
-      subhref: "/teaching/posc-3610-international-conflict/"
-    - subtitle: "POSC 3630 – United States Foreign Policy"
-      subhref: "/teaching/posc-3630-united-states-foreign-policy/"
+    - subtitle: "WPC 300 – Problem Solving and Actionable Analytics"
+      subhref: "/teaching/wpc300"
+
+- title: "Awards"
+  href: "/awards/"
+
+- title: "Customized Keyboards"
+  href: "/keyboards/"
+  subcategories:
+    - subtitle: "Keyboard Collections"
+      subhref: "/keyboards/collections"
+    - subtitle: "ALF Studio"
+      subhref: "https://alfstudio.club/"
