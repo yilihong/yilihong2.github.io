@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-{% include image.html url="/images/wpc_mag1.pdf" caption="W. P. Carey Magazine interview on the <i>Management Science</i> paper on performance feedback in digital platforms. (Photo credits: W. P. Carey Magazine)" width=300 align="right" %}
+{% include image.html url="/images/wpc_mag1.png" caption="W. P. Carey Magazine interview on the <i>Management Science</i> paper on performance feedback in digital platforms. (Photo credits: W. P. Carey Magazine)" width=300 align="right" %}
 
 My research interests are in the areas of Sharing Economy, Digital Platforms, and User-generated Content. My research has been published in premier journals such as <i>Management Science</i>, <i>Information Systems Research</i>, <i>MIS Quarterly</i>, <i>Journal of Management Information Systems</i>, <i>Journal of the Association for Information Systems</i>, and <i>Journal of Consumer Psychology</i>. 
 
