@@ -14,7 +14,7 @@
   href: "/teaching/"
   subcategories:
     - subtitle: "WPC 300 – Problem Solving and Actionable Analytics"
-      subhref: "/teaching/wpc300"
+      subhref: "/teaching/wpc-300"
 
 - title: "Awards"
   href: "/awards/"
@@ -23,6 +23,6 @@
   href: "/keyboards/"
   subcategories:
     - subtitle: "Keyboard Collections"
-      subhref: "/keyboards/collections"
+      subhref: "/keyboards/keyboard-collections"
     - subtitle: "ALF Studio"
       subhref: "https://alfstudio.club/"

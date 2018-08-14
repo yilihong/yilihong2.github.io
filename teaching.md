@@ -4,9 +4,11 @@ title: Teaching
 permalink: /teaching/
 ---
 
+Coming soon...
+
 <!-- {% include image.html url="/images/edward-james-olmos-stand-deliver.jpg" caption="That's right. Tough guys don't do math; tough guys deep fry chicken for a living." width="400" align="right" %} -->
 
-This page serves includes my teaching philosophy and an empirical assessment of my teaching effectiveness. It also serves as a directory for the courses I have taught, which is freely available to current students, alumni of my classes, and any other interested observers. Subsequent transitions from my website through university servers, to Wordpress, to (now) Github have led to the loss of several old course websites in the shuffle. People interested in syllabi from previous courses I taught at Alabama and Illinois can e-mail me to obtain a past syllabus.
+<!-- This page serves includes my teaching philosophy and an empirical assessment of my teaching effectiveness. It also serves as a directory for the courses I have taught, which is freely available to current students, alumni of my classes, and any other interested observers. Subsequent transitions from my website through university servers, to Wordpress, to (now) Github have led to the loss of several old course websites in the shuffle. People interested in syllabi from previous courses I taught at Alabama and Illinois can e-mail me to obtain a past syllabus.
 
 <hr style="clear:both;visibility: hidden;" />  
 
@@ -47,4 +49,4 @@ I taught eight separate courses while a graduate student at the University of Al
 - PSC 203 (Intro to Comparative Politics)
 - PSC 204 (Intro to International Relations)
 - PSC 442 (Interstate Conflict)
-- PSC 446w (Political Economy of Security)
+- PSC 446w (Political Economy of Security) -->

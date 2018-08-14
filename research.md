@@ -4,54 +4,57 @@ title: Research
 permalink: /research/
 ---
 
-{% include image.html url="/images/falklands-rally-1982.jpg" caption="Argentine citizens rally in April 1982 at May Square in Buenos Aires, demonstrating support for their government's recent invasion of the British-held Falkland Islands. (Panta Astiazaran, AFP, Getty Images)" width=400 align="right" %}
+{% include image.html url="/images/wpc_mag1.pdf" caption="W. P. Carey Magazine interview on the <i>Management Science</i> paper on performance feedback in digital platforms. (Photo credits: W. P. Carey Magazine)" width=300 align="right" %}
 
-My research focuses on international conflict, particularly over the distribution of territory. I examine the effect these territorial issues have on domestic politics, with a focus at the level of the individual citizen. Here, you can find materials relevant to my published research and research in progress. 
+My research interests are in the areas of Sharing Economy, Digital Platforms, and User-generated Content. My research has been published in premier journals such as <i>Management Science</i>, <i>Information Systems Research</i>, <i>MIS Quarterly</i>, <i>Journal of Management Information Systems</i>, <i>Journal of the Association for Information Systems</i>, and <i>Journal of Consumer Psychology</i>. 
 
-I also provide titles for some working papers and works in progress below. I provide full links for these papers when I believe they are ready for peer review. Feel free to contact me if you are interested in some of these projects. [My CV](http://svmiller.com/cv/) contains more information about where some of these projects are in the peer review process.
+My work has been supported by multiple prestigious grants, from the <i>NET Institute</i> (2013, 2014, 2015, 2016, 2017, 2018), the <i>Department of Education</i> (2011, 2013, 2015), <i>Robert Wood Johnson Foundation</i> (2017-2019), the <i>National Science Foundation</i> (2018), as well as the <i>National Science Foundation of China</i> (2017). My research has been awarded the <i>ACM SIGMIS Best Dissertation Award</i> (2014) and runner-up <i>INFORMS ISS Nunamaker-Chen Dissertation Award</i> (2014). My research papers have received best paper awards at the <i>International Conference on Information Systems</i> (2012), <i>Hawaii International Conference on System Sciences</i> (2017), <i>America's Conference on Information Systems</i> (2012), and the <i>China Summer Workshop on Information Management</i> (2018). And in 2017, I was awarded the <i>W. P. Carey Faculty Research Award</i>.
 
-I also offer [a three-page research statement](/docs/svm-research-statement.pdf) that summarizes and contextualizes my different research agendas.
+I am currently an Associate Editor at <i>Information Systems Research</i>. And I am on the editorial board of the <i>Journal of the Association for Information Systems</i>.
  
 <hr style="clear:both;visibility: hidden;" />  
 
-## Original Data
+## Forthcoming Articles 
 
-[*Gibler-Miller-Little (GML) MID Data*](/gml-mid-data/) ![Version 2.03](https://img.shields.io/badge/release-v2.03-blue.svg) <br /> This page contains links to download non-directed/directed dyad-year militarized interstate dispute (MID) data derived from my co-authored project published in [*International Studies Quarterly*](https://academic.oup.com/isq/article-abstract/60/4/719/2918882/An-Analysis-of-the-Militarized-Interstate-Dispute?redirectedFrom=fulltext).
+![forthcoming](https://img.shields.io/badge/-forthcoming-blue.svg)
+![conditional](https://img.shields.io/badge/-conditional%20accept-orange.svg)
+<!-- ![published](https://img.shields.io/badge/status-published-brightgreen.svg) -->
 
-## Publications
+Yan Z, Kuang L, Huang N, Hong Y. 2018. [Spillover Effects of Financial Incentives on User Engagement: Evidence From an Online Knowledge Exchange Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3154655), *Journal of Management Information Systems.* ![conditional](https://img.shields.io/badge/-conditional%20accept-orange.svg)
 
-Miller, Steven V. 2018. "[External Territorial Threats and Tolerance of Corruption: A Private/Government Distinction](/research/external-territorial-threats-and-tolerance-of-corruption-a-privategovernment-distinction/)". *Peace Economics, Peace Science and Public Policy* 24(1): `doi:` [10.1515/peps-2017-0043](https://doi.org/10.1515/peps-2017-0043)
+Hong Y, Hu Y, Burtch G. 2018. [Embeddedness, Pro-Sociality, and Social Influence: Evidence from Online Crowdfunding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3125936), *MIS Quarterly.* ![forthcoming](https://img.shields.io/badge/-forthcoming-blue.svg)
 
-Miller, Steven V. 2017. "[The Effect of Terrorism on Judicial Confidence](http://svmiller.com/research/effect-terrorism-judicial-confidence/)." *Political Research Quarterly* 70(4): 790--802.
+Gong J, Hong Y, Zentner A. 2018. [Role of Monetary Incentives in the Digital and Physical Inter-Border Labor Flows](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3182905), *Journal of Management Information Systems.* ![forthcoming](https://img.shields.io/badge/-forthcoming-blue.svg)
 
-Miller, Steven V. 2017. "[Individual-Level Expectations of Executive Authority under Territorial Threat](/research/individual-level-expectations-of-executive-authority-under-territorial-threat/)." *Conflict Management and Peace Science* 34(5): 526-545.
+Kanat I, Hong Y, Raghu TS. 2018. [Surviving in Global Online Labor Markets for IT Services: A Geo-economic Analysis](https://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0751), *Information Systems Research.* ![forthcoming](https://img.shields.io/badge/-forthcoming-blue.svg)
 
-Miller, Steven V. 2017. "[Economic Threats or Societal Turmoil? Understanding Preferences for Authoritarian Political Systems](/research/economic-threats-or-societal-turmoil-understanding-preferences-for-authoritarian-political-systems/)." *Political Behavior* 39(2): 457-478.
+Huang N, Burtch G, Gu B, Hong Y, Liang C, Wang K, Fu D, Yang B. 2018. [Motivating User-Generated Content with Performance Feedback: Evidence from Randomized Field Experiments](https://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0751), *Management Science.* ![forthcoming](https://img.shields.io/badge/-forthcoming-blue.svg)
 
-Gibler, Douglas M., Steven V. Miller, and Erin K. Little. 2016. "[An Analysis of the Militarized Interstate Dispute (MID) Dataset, 1816-2001](http://dmgibler.people.ua.edu/mid-replication.html)." *International Studies Quarterly* 60(4): 719-730.
+Chen PY, Hong Y, Liu Y. 2018. [Value of Multi-dimensional Rating Systems: Evidence from a Natural Experiment and Lab Experiments](http://pubsonline.informs.org/doi/abs/10.1287/mnsc.2017.2852), *Management Science.* ![forthcoming](https://img.shields.io/badge/-forthcoming-blue.svg)
 
-Gibler, Douglas M. and Steven V. Miller. 2014. "[External Territorial Threat, State Capacity, and Civil War](http://dmgibler.people.ua.edu/state-capacity.html)." *Journal of Peace Research* 51(5): 634-646.
+## Published Premier Journal Articles 
 
-Miller, Steven V. 2013. "[Territorial Disputes and the Politics of Individual Well-Being](/research/territorial-disputes-and-the-politics-of-individual-well-being/)." *Journal of Peace Research* 50(6): 677-690.
+Burtch G, Hong Y, Bapna R, Griskevicius V. 2018. [Stimulating Online Reviews by Combining Financial Incentives and Social Norms](http://pubsonline.informs.org/doi/abs/10.1287/mnsc.2016.2715), *Management Science.* 64(5):2065--2082
 
-Gibler, Douglas M. and Steven V. Miller. 2013. "[Quick Victories? Territory, Democracies and Their Disputes](http://jcr.sagepub.com/content/57/2/258.full)." *Journal of Conflict Resolution* 57(2): 258-284.
+Burtch G, Hong Y, Liu D. 2018. [The Role of Provision Points in Online Crowdfunding](https://www.tandfonline.com/doi/full/10.1080/07421222.2018.1440764), *Journal of Management Information Systems.* 35(1):117--144
 
-Gibler, Douglas M., Marc L. Hutchison and Steven V. Miller. 2012. "[Individual Identity Attachments and International Conflict: The Importance of Territorial Threat](http://cps.sagepub.com/content/45/12/1655.full)." *Comparative Political Studies* 45(12): 1655-1683.
+Huang N, Hong Y, Burtch G. 2017. [Social Network Integration and User Content Generation: Evidence from Natural Experiments](https://misq.org/social-network-integration-and-user-content-generation-evidence-from-natural-experiments.html), *MIS Quarterly.* 41(4):1035--1058 (Lead Article)
 
-Gibler, Douglas M. and Steven V. Miller. 2012. "[Comparing the Foreign Aid Policies of Presidents Bush and Obama](http://onlinelibrary.wiley.com/doi/10.1111/j.1540-6237.2012.00909.x/full)." *Social Science Quarterly* 93(5): 1202-1217.
+Hong Y, Pavlou PA. 2017. [On Buyer Selection of Service Providers in Online Outsourcing Platforms for IT Services](http://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0709), *Information Systems Research.* 28(3):547--562
 
-Miller, Steven V. and Douglas M. Gibler. 2011. "[Democracies, Territory and Negotiated Compromises](http://cmp.sagepub.com/content/28/3/261)." *Conflict Management and Peace Science* 28(3): 261-279.
+Hong Y, Pavlou PA, Shi N, Wang K. 2016. [On the Role of Fairness and Social Distance in Designing Effective Social Referral Systems](https://misq.org/on-the-role-of-fairness-and-social-distance-in-designing-effective-social-referral-systems.html), *MIS Quarterly.* 41(3):787--809
 
-## Working Papers and Works in Progress
+Hong, Huang N, Burtch G, Li C. 2016. [Culture, Conformity and Emotional Suppression in Online Reviews](http://aisel.aisnet.org/jais/vol17/iss11/2/), *Journal of the Association for Information Systems.* 17(11):308--329
 
-"Understanding Carrots and Sticks in U.S. Aid Allocation: The Case of the Middle East"
+Huang N, Burtch G, Hong Y, Polman E. 2016. [Effects of Multiple Psychological Distances on Construal and Consumer Evaluation: A Field Study of Online Reviews](https://doi.org/10.1016/j.jcps.2016.03.001), *Journal of Consumer Psychology.* 26(4):474--482
 
-"U.S. Presidents, Human Rights, and Economic Aid from Truman to Obama: A Mixed Effects Approach"
+Hong Y, Wang CA, Pavlou PA. 2016. [Comparing Open and Sealed Bid Auctions: Evidence from Online Labor Markets](https://doi.org/10.1287/isre.2015.0606), *Information Systems Research.* 27(1):49--69
 
-"Convergence or Divergence? The Unique Effect of Territorial Threats on Attitudes toward Authoritarian Leaders"
+Hong Y, Pavlou PA. 2014. [Product Fit Uncertainty in Online Markets: Nature, Effects, and Antecedents](https://doi.org/10.1287/isre.2014.0520), *Information Systems Research.* 25(2):328--344
 
-"[White Outgroup Intolerance and Declining Support for American Democracy](/research/white-outgroup-intolerance-democratic-support/)" 
+Dimoka A, Hong Y, Pavlou PA. 2012. [On Product Uncertainty in Online Markets: Theory and Evidence](https://misq.org/on-product-uncertainty-in-online-markets-theory-and-evidence.html), *MIS Quarterly.* 36(2):395--426
 
-"[What Americans Really Think About Gun Control: Evidence from the General Social Survey, 1972-2016](/research/what-americans-really-think-about-gun-control/)" 
 
-"[Economic Anxiety or Racial Resentment? An Evaluation of Attitudes Toward Immigration in the U.S. From 1992 to 2016](/research/economic-anxiety-racial-resentment-immigration-1992-2016/)" 
+
+
+
