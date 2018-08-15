@@ -14,7 +14,7 @@ I blog semi-regularly about research related updates. Please see below my blog u
     <h2 class="blogyear">{{ y}}</h2>
   {% endif %}
 <li class="archiveposturl"><span><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></span><br/>
-<span class = "postlower"><strong>Author:</strong> {{post.author}} 
+<span class = "postlower"><!-- <strong>Author:</strong> {{post.author}} --> 
 <strong>Category:</strong>  {% if post.categories %}
  
   {% for cat in post.categories %}

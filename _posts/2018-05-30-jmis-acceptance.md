@@ -1,5 +1,5 @@
 ---
-title: 'Paper with Jing Gong (Temple) and Alejandro Zentner (UT Dallas) accepted for publication at the *Journal of Management Information Systems*.'
+title: 'Paper with Jing Gong (Temple) and Alejandro Zentner (UT Dallas) accepted for publication at the Journal of Management Information Systems.'
 author: Kevin
 layout: post
 date: "2018-05-30"
