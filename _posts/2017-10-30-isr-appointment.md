@@ -2,7 +2,7 @@
 title: 'Appointed to the editorial board of Information Systems Research as an Associate Editor.'
 author: Kevin
 layout: post
-date: "2018-10-30"
+date: "2017-10-30"
 permalink:
 categories:
   - news

@@ -2,7 +2,7 @@
 title: 'Interviewed by AZCentral about the current status and future of the gig economy in Arizona.'
 author: Kevin
 layout: post
-date: "2018-11-25"
+date: "2017-11-25"
 permalink:
 categories:
   - media

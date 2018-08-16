@@ -2,7 +2,7 @@
 title: 'Our NET Institute Working Paper #17-06 now available online.'
 author: Kevin
 layout: post
-date: "2018-10-10"
+date: "2017-10-10"
 permalink:
 categories:
   - working-paper

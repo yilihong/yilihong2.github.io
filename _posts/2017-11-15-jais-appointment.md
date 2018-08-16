@@ -2,7 +2,7 @@
 title: 'Appointed to the editorial board of Journal of the Association for Information Systems.'
 author: Kevin
 layout: post
-date: "2018-11-25"
+date: "2017-11-25"
 permalink:
 categories:
   - news
