@@ -11,4 +11,4 @@ excerpt: "congressman letter."
 
 Congressman Sinema sent us a letter congratulating us on the recent NSF grant about gender wage gap in the online gig economy.
 
-{% include image.html url="/images/congressman.jpg" caption="What explains gender wage gap?" width=500 align="right" %}
+{% include image.html url="/images/congressman.jpeg" caption="Congressman letter" width=500 align="center" %}
