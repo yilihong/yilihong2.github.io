@@ -16,7 +16,9 @@ I am currently an Associate Editor at <i>Information Systems Research</i>. And I
 
 ## Forthcoming Articles 
 
-Yan Z, Kuang L, Huang N, Hong Y. 2018. [Spillover Effects of Financial Incentives on User Engagement: Evidence From an Online Knowledge Exchange Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3154655), *Journal of Management Information Systems.* ![forthcoming](https://img.shields.io/badge/-conditional%20accept-orange.svg)
+<!-- ![conditional](https://img.shields.io/badge/-conditional%20accept-orange.svg) -->
+
+Yan Z, Kuang L, Huang N, Hong Y. 2018. [Spillover Effects of Financial Incentives on User Engagement: Evidence From an Online Knowledge Exchange Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3154655), *Journal of Management Information Systems.* ![forthcoming](https://img.shields.io/badge/-forthcoming-blue.svg)
 
 Hong Y, Hu Y, Burtch G. 2018. [Embeddedness, Pro-Sociality, and Social Influence: Evidence from Online Crowdfunding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3125936), *MIS Quarterly.* ![forthcoming](https://img.shields.io/badge/-forthcoming-blue.svg)
 
