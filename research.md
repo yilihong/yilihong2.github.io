@@ -53,6 +53,12 @@ Hong Y, Pavlou PA. 2014. [Product Fit Uncertainty in Online Markets: Nature, Eff
 Dimoka A, Hong Y, Pavlou PA. 2012. [On Product Uncertainty in Online Markets: Theory and Evidence](https://misq.org/on-product-uncertainty-in-online-markets-theory-and-evidence.html), *MIS Quarterly.* 36(2):395--426
 
 
+## Selected Working Papers
 
+Hong Y, Shao BBM. 2018. [Effectiveness of Experience in E-Procurement: Roles of Temporal Distance and Task Routinization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3294028)
+
+Hu Y, Hong Y. 2018. [Event Detection and Recommendation using Social Media for Promoting Civic Awareness and Engagement for Local Communities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3257060)
+
+Liang C, Hong Y, Gu B. 2018. [Effects of IT-Enabled Monitoring on Labor Contracting in Online Platforms: Evidence from a Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2844920)
 
 
