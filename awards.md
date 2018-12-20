@@ -6,6 +6,9 @@ permalink: /awards/
 
 <h2 class="blogyear">2018</h2>
 <ul id="archive">
+    <li>Best Paper Award, Workshop on Information Systems and Economics (WISE)</li>
+    <li>Best Conference Theme Paper Award (runner-up), International Conference on Information Systems (ICIS)</li>
+    <li>Early Career Award, Association for Information Systems</li>
     <li><a href="http://netinst.org/">NET Institute Grant</a></li>
     <li>National Science Foundation (SES-DRMS) Grant</li>
     <li>Best Paper Award, The 12th China Summer Workshop on Information Management (CSWIM)</li>
