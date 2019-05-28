@@ -18,15 +18,17 @@ I am currently an Associate Editor at <i>Information Systems Research</i>. And I
 
 <!-- ![conditional](https://img.shields.io/badge/-conditional%20accept-orange.svg) -->
 
-Yan Z, Kuang L, Huang N, Hong Y. 2018. [Spillover Effects of Financial Incentives on User Engagement: Evidence From an Online Knowledge Exchange Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3154655), *Journal of Management Information Systems.* ![forthcoming](https://img.shields.io/badge/-forthcoming-blue.svg)
+Hu Y, Xu A, Hong Y, Gal D, Sinha V, Akkiraju R. 2019. [Generating Business Intelligence Through Social Media Analytics: Measuring Brand Personality with Consumer-, Employee-, and Firm-Generated Content](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197420), *Journal of Management Information Systems.* ![forthcoming](https://img.shields.io/badge/-forthcoming-blue.svg)
+
+Huang N, Burtch G, Gu B, Hong Y, Liang C, Wang K, Fu D, Yang B. 2019. [Motivating User-Generated Content with Performance Feedback: Evidence from Randomized Field Experiments](https://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0751), *Management Science.* ![forthcoming](https://img.shields.io/badge/-forthcoming-blue.svg)
+
+Yan Z, Kuang L, Huang N, Hong Y. 2019. [Spillover Effects of Financial Incentives on User Engagement: Evidence From an Online Knowledge Exchange Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3154655), *Journal of Management Information Systems.* ![forthcoming](https://img.shields.io/badge/-forthcoming-blue.svg)
 
 Hong Y, Hu Y, Burtch G. 2018. [Embeddedness, Pro-Sociality, and Social Influence: Evidence from Online Crowdfunding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3125936), *MIS Quarterly.* ![forthcoming](https://img.shields.io/badge/-forthcoming-blue.svg)
 
 Gong J, Hong Y, Zentner A. 2018. [Role of Monetary Incentives in the Digital and Physical Inter-Border Labor Flows](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3182905), *Journal of Management Information Systems.* ![forthcoming](https://img.shields.io/badge/-forthcoming-blue.svg)
 
 Kanat I, Hong Y, Raghu TS. 2018. [Surviving in Global Online Labor Markets for IT Services: A Geo-economic Analysis](https://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0751), *Information Systems Research.* ![forthcoming](https://img.shields.io/badge/-forthcoming-blue.svg)
-
-Huang N, Burtch G, Gu B, Hong Y, Liang C, Wang K, Fu D, Yang B. 2018. [Motivating User-Generated Content with Performance Feedback: Evidence from Randomized Field Experiments](https://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0751), *Management Science.* ![forthcoming](https://img.shields.io/badge/-forthcoming-blue.svg)
 
 Chen PY, Hong Y, Liu Y. 2018. [Value of Multi-dimensional Rating Systems: Evidence from a Natural Experiment and Lab Experiments](http://pubsonline.informs.org/doi/abs/10.1287/mnsc.2017.2852), *Management Science.* ![forthcoming](https://img.shields.io/badge/-forthcoming-blue.svg)
 
