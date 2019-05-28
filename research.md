@@ -8,15 +8,13 @@ permalink: /research/
 
 My research interests are in the areas of Sharing Economy, Digital Platforms, and User-generated Content. My research has been published in premier journals such as <i>Management Science</i>, <i>Information Systems Research</i>, <i>MIS Quarterly</i>, <i>Journal of Management Information Systems</i>, <i>Journal of the Association for Information Systems</i>, and <i>Journal of Consumer Psychology</i>. 
 
-My work has been supported by multiple prestigious grants, from the <i>NET Institute</i> (2013, 2014, 2015, 2016, 2017, 2018), the <i>Department of Education</i> (2011, 2013, 2015), <i>Robert Wood Johnson Foundation</i> (2017-2019), the <i>National Science Foundation</i> (2018), as well as the <i>National Science Foundation of China</i> (2017). My research has been awarded the <i>ACM SIGMIS Best Dissertation Award</i> (2014) and runner-up <i>INFORMS ISS Nunamaker-Chen Dissertation Award</i> (2014). My research papers have received best paper awards at the <i>International Conference on Information Systems</i> (2012), <i>Hawaii International Conference on System Sciences</i> (2017), <i>America's Conference on Information Systems</i> (2012), and the <i>China Summer Workshop on Information Management</i> (2018). In 2017, I was awarded the <i>W. P. Carey Faculty Research Award</i>. And in 2018, I was awarded and <i>Early Career Award</i> from the Association for Information Systems.
+My work has been supported by multiple prestigious grants, from the <i>NET Institute</i> (2013, 2014, 2015, 2016, 2017, 2018), the <i>Department of Education</i> (2011, 2013, 2015), <i>Robert Wood Johnson Foundation</i> (2017-2019), the <i>National Science Foundation</i> (2018), as well as the <i>National Science Foundation of China</i> (2017). My research has been awarded the <i>ACM SIGMIS Best Dissertation Award</i> (2014) and runner-up <i>INFORMS ISS Nunamaker-Chen Dissertation Award</i> (2014). My research papers have received best paper awards at the <i>International Conference on Information Systems</i> (2012), <i>Hawaii International Conference on System Sciences</i> (2017), <i>America's Conference on Information Systems</i> (2012), and the <i>China Summer Workshop on Information Management</i> (2018). In 2017, I was awarded the <i>W. P. Carey Faculty Research Award</i>. And in 2018, I was awarded the <i>Early Career Award</i> from the Association for Information Systems.
 
 I am currently an Associate Editor at <i>Information Systems Research</i>. And I am on the editorial board of the <i>Journal of the Association for Information Systems</i>.
  
 <hr style="clear:both;visibility: hidden;" />  
 
 ## Forthcoming Articles 
-
-<!-- ![conditional](https://img.shields.io/badge/-conditional%20accept-orange.svg) -->
 
 Hu Y, Xu A, Hong Y, Gal D, Sinha V, Akkiraju R. 2019. [Generating Business Intelligence Through Social Media Analytics: Measuring Brand Personality with Consumer-, Employee-, and Firm-Generated Content](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197420), *Journal of Management Information Systems.* [![Download](https://img.shields.io/badge/Download-blue.svg)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197420)
 
