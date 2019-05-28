@@ -20,7 +20,7 @@ I am currently an Associate Editor at <i>Information Systems Research</i>. And I
 
 Hu Y, Xu A, Hong Y, Gal D, Sinha V, Akkiraju R. 2019. [Generating Business Intelligence Through Social Media Analytics: Measuring Brand Personality with Consumer-, Employee-, and Firm-Generated Content](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197420), *Journal of Management Information Systems.* [![Download](https://img.shields.io/badge/Download-blue.svg)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197420)
 
-Huang N, Burtch G, Gu B, Hong Y, Liang C, Wang K, Fu D, Yang B. 2019. [Motivating User-Generated Content with Performance Feedback: Evidence from Randomized Field Experiments](https://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0751), *Management Science.* ![forthcoming](https://img.shields.io/badge/-forthcoming-blue.svg)
+Huang N, Burtch G, Gu B, Hong Y, Liang C, Wang K, Fu D, Yang B. 2019. [Motivating User-Generated Content with Performance Feedback: Evidence from Randomized Field Experiments](https://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0751), *Management Science.* [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/MS_Performance_Feedback_2019.pdf)
 
 Yan Z, Kuang L, Huang N, Hong Y. 2019. [Spillover Effects of Financial Incentives on User Engagement: Evidence From an Online Knowledge Exchange Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3154655), *Journal of Management Information Systems.* ![forthcoming](https://img.shields.io/badge/-forthcoming-blue.svg)
 
