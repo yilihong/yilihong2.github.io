@@ -3,6 +3,10 @@ layout: page
 title: Professional Awards and Grants
 permalink: /awards/
 ---
+<h2 class="blogyear">2019</h2>
+<ul id="archive">
+    <li>Finalist, Huizing Undergraduate Teaching Award</li>
+</ul>
 
 <h2 class="blogyear">2018</h2>
 <ul id="archive">
