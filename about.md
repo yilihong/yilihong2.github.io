@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/hong-headshot.jpg" width=200 align="right" %}
+{% include image.html url="/images/hong-headshot.jpeg" width=250 align="right" %}
 
 I am an Associate Professor, Co-Director of the <a href="https://research.wpcarey.asu.edu/digital-society/">Digital Society Initiative</a> and the Director of the PhD Program in the <a href="https://wpcarey.asu.edu/people/profile/2355839">Department of Information Systems</a> at the W. P. Carey School of Business of Arizona State University. I obtained my Ph.D in Management Information Systems at the Fox School of Business, Temple University, under the mentorship and advising of Prof. <a href="https://www.bauer.uh.edu/administration/office-of-dean/paul-pavlou.php">Paul A. Pavlou</a>. I am currently an Associate Editor at <i>Information Systems Research</i>. And I am on the editorial board of <i>Journal of the Association for Information Systems</i>.
 
