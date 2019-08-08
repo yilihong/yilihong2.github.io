@@ -16,7 +16,7 @@ I am currently an Associate Editor at <i>Information Systems Research</i>. And I
 
 ## Forthcoming Articles 
 
-Hu Y, Xu A, Hong Y, Gal D, Sinha V, Akkiraju R. 2019. [Generating Business Intelligence Through Social Media Analytics: Measuring Brand Personality with Consumer-, Employee-, and Firm-Generated Content](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197420), *Journal of Management Information Systems.* [![Download](https://img.shields.io/badge/Download-blue.svg)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197420)
+Hu Y, Xu A, Hong Y, Gal D, Sinha V, Akkiraju R. 2019. [Generating Business Intelligence Through Social Media Analytics: Measuring Brand Personality with Consumer-, Employee-, and Firm-Generated Content](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197420), *Journal of Management Information Systems.* [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/JMIS_Brand_Personality_2019.pdf)
 
 Huang N, Burtch G, Gu B, Hong Y, Liang C, Wang K, Fu D, Yang B. 2019. [Motivating User-Generated Content with Performance Feedback: Evidence from Randomized Field Experiments](https://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0751), *Management Science.* [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/MS_Performance_Feedback_2019.pdf)
 
