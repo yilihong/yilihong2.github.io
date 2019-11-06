@@ -16,4 +16,4 @@ Prior to my academic career, I have worked at <a href="http://www.cicc.com/index
 
 In my spare time, I enjoy reading books and writing codes. I am an avid <i>Emacs</i> user, a <i>typography</i> enthusiast, and <i>mechanical keyboard</i> designer. I am currently managing the global branding for a number of premium customized keyboard studios, including the Gray Studio and Percent Studio. Check out some of my collections and projects in the links to the above.
 
-{% include image.html url="/images/gig1.jpg" caption="The gig economy is transforming how individuals work and how firms recruit." width=480 align="center" %}
+{% include image.html url="/images/gig1.jpg" caption="The gig economy is transforming how individuals work and how firms recruit." width=500 align="center" %}
