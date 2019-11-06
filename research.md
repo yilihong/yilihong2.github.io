@@ -57,10 +57,12 @@ Dimoka A, Hong Y, Pavlou PA. 2012. [On Product Uncertainty in Online Markets: Th
 
 ## Selected Working Papers
 
-Hong Y, Shao BBM. 2018. [Effectiveness of Experience in E-Procurement: Roles of Temporal Distance and Task Routinization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3294028)
+Hong Y, Shao BBM. 2019. [Effectiveness of Experience in E-Procurement: Roles of Temporal Distance and Task Routinization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3294028)
 
-Hu Y, Hong Y. 2018. [Event Detection and Recommendation using Social Media for Promoting Civic Awareness and Engagement for Local Communities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3257060)
+Hu Y, Hong Y. 2019. [Event Detection and Recommendation using Social Media for Promoting Civic Awareness and Engagement for Local Communities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3257060)
 
-Liang C, Hong Y, Gu B. 2018. [Effects of IT-Enabled Monitoring on Labor Contracting in Online Platforms: Evidence from a Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2844920)
+Liu Q, Du Q, Hong Y, Fan W. 2019. [Idea Implementation and Recommendation in Open Innovation Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3480760)
+
+Liang C, Hong Y, Gu B. 2019. [Effects of IT-Enabled Monitoring on Labor Contracting in Online Platforms: Evidence from a Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2844920)
 
 
