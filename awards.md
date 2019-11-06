@@ -5,6 +5,8 @@ permalink: /awards/
 ---
 <h2 class="blogyear">2019</h2>
 <ul id="archive">
+    <li>Associate Editor of the Year, <i>Information Systems Research</i></li>
+    <li>INFORMS Information Systems Society Sandy Slaughter Early Career Award</li>
     <li>Finalist, Huizing Undergraduate Teaching Award</li>
 </ul>
 
