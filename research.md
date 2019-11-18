@@ -63,7 +63,7 @@ Dimoka A, Hong Y, Pavlou PA. 2012. [On Product Uncertainty in Online Markets: Th
 
 ## Selected Working Papers
 
-Hong Y, Shao BBM. 2019. [Effectiveness of Experience in E-Procurement: Roles of Temporal Distance and Task Routinization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3294028)
+Hong Y, Shao BBM. 2019. [Effectiveness of Buyer-Supplier Prior Experience on E-Procurement Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3294028)
 
 Hu Y, Hong Y. 2019. [Event Detection and Recommendation using Social Media for Promoting Civic Awareness and Engagement for Local Communities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3257060)
 
