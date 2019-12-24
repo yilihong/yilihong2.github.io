@@ -10,7 +10,7 @@ permalink: /books/reading-list
 
 [Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World](https://amzn.to/2QiYol2) by Marco Iansiti and Karim Lakhani
 
-[Platform Revolution](https://amzn.to/2PVai5T) by Geoffrey Parker, Marshall Van Alstyne, and Aangeet Choudary
+[Platform Revolution](https://amzn.to/2PVai5T) by Geoffrey Parker, Marshall Van Alstyne, and Sangeet Choudary
 
 [The Sharing Economy](https://amzn.to/2MmK3Tq) by Arun Sandararajan
 
