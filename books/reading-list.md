@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reading List
+title: Business and Tech Strategy Reading List
 permalink: /books/reading-list
 ---
 
