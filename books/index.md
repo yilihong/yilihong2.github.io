@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Keyboard index page
+title: Reading List
 permalink: /books/
 ---
 

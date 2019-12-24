@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Books & Tech
+title: Reading List
 permalink: /books/reading-list
 ---
 
