@@ -12,3 +12,6 @@ I use a keyboard from the [Gray Studio](https://graystudio.club) called Space65,
 
 ## Mouse I use
 I use the [Logitech G703 Lightspeed Wireless Mouse](https://amzn.to/2ZizR3P), which is super precise and responsive.
+
+## Camera Gear
+I shoot with a full-frame DSLR [Nikon D750](https://amzn.to/2PQTTz3) with a special edition [Nikkor 50 1.8g](https://amzn.to/2Qj2A4g). With the fast development of camera smart phones, I hope this is the last DSLR I own!
