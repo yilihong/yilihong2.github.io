@@ -4,7 +4,7 @@ title: Business and Tech Strategy Reading List
 permalink: /books/reading-list
 ---
 
-## Technology Strategy
+## On Technology Strategy
 
 [Prediction Machines: The Simple Economics of Artificial Intelligence](https://amzn.to/39aRRl1) by Ajay Agrawal, Joshua Gans, and Avi Goldfarb
 
@@ -23,11 +23,18 @@ permalink: /books/reading-list
 [The Technology Fallacy](https://amzn.to/2PQo21G) by Gerald Kane, Anh Phillips, Gonathan Copulsky, and Garth Andrus
 
 
-## On Econometrics Methodology
+## On Social Science Research
+
+[Engaged Scholarship: A Guide for Organizational and Social Research](https://amzn.to/2ZjSdBi) by Andrew Van de Ven
+
+
+## On Econometrics and Causal Inference Methodology
 
 [Mostly Harmless Econometrics: An Empiricist's Companion](https://amzn.to/2F0bGOp) by Joshua Angrist and Jorn-Steffen Pischke
 
 [Microeconometrics Using Stata](https://amzn.to/34STSPF) by Colin Cameron and Pravin Trivedi
+
+[Experimental and Quasi-Experimental Designs for Generalized Causal Inference](https://amzn.to/2tPpzMT) by William Shadish, Thomas Cook, and Donald Campbell
 
 
 ## On Field Experimentation Methodology
@@ -45,4 +52,7 @@ permalink: /books/reading-list
 
 
 ## On Writing
+
 [The Elements of Style](https://amzn.to/2Zocw0v) by William Strunk and E. B. White
+
+[Economical Writing: Thirty-Five Rules for Clear and Persuasive Prose](https://amzn.to/2Mrdsfp) by Deirdre McCloskey
