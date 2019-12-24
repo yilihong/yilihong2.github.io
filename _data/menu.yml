@@ -19,8 +19,10 @@
 - title: "Awards"
   href: "/awards/"
 
-- title: "Keyboards"
-  href: "/keyboards/"
+- title: "Books & Tech"
+  href: "/books/"
   subcategories:
-    - subtitle: "Keyboard Collections"
-      subhref: "/keyboards/keyboard-collections"
+    - subtitle: "Recommended Reading List"
+      subhref: "/books/reading-list"
+    - subtitle: "Recommended Technology"
+      subhref: "/books/tech"
