@@ -65,6 +65,8 @@ Dimoka A, Hong Y, Pavlou PA. 2012. [On Product Uncertainty in Online Markets: Th
 
 Huang N, He Y, Xu X, Hong Y. 2020. [Designing Demand Information Disclosure in the Presence of Capacity Constraints: A Large-Scale Randomized Field Experiment on a Matching Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3514033)
 
+Zhao K, Lu Y, Hu Y, Hong Y. 2020. [Understanding the Nature and Effects of Content Providers’ Switching Behaviors: Evidence from Online Live Streaming](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521508)
+
 Hong Y, Shao BBM. 2019. [Effectiveness of Buyer-Supplier Prior Experience on E-Procurement Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3294028)
 
 Hu Y, Hong Y. 2019. [Event Detection and Recommendation using Social Media for Promoting Civic Awareness and Engagement for Local Communities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3257060)
